@@ -6,9 +6,9 @@
 
 Microsope: Lattice Light Sheet
 
-![](denoised.gif)
-![](noisy.gif)
+![](imgs/denoised.gif)
+
 
 ### Prediction of cells having very different shape compared to training data
 
-![](bleachCorrection.gif)
+![](imgs/bleachCorrection.gif)
