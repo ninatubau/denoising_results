@@ -6,8 +6,8 @@
 
 Microsope: Lattice Light Sheet
 
-<img src="imgs/noisy_colagen.png" width=400px" align="left"/>
-<img src="imgs/denoised_colagen.png" width=400px" align="right"/>
+![](imgs/noisy_colagen.png)
+![](imgs/denoised_colagen.png)
 ![](imgs/denoised.gif)
 
 
